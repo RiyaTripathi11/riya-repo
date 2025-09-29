@@ -1,4 +1,1 @@
-# riya-repo
-This is for fun only.
-<br>
-Author - Riya Tripathi
+#This is my Local Repo
